@@ -1,0 +1,12 @@
+{
+  "name": "브리오슈",
+  "short_name": "브리오슈",
+  "description": "부드럽게 만드는 내 가게 디자인 · 하루 한 조각",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F3F0",
+  "theme_color": "#B8862B",
+  "icons": [
+    {"src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='80'>🧈</text></svg>", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}
